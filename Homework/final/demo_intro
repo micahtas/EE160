@@ -1,0 +1,47 @@
+                                                                             +++
+
+                          WELCOME TO MAZE-RUNNER DEMO
+
+
+THIS IS NOT YOUR MAZE RUNNER! This is a demo of possible Maze Runner Levels.
+
+The Levels are:
+
+       Level 0:  Drive the Mouse.
+                    You may use the a,s,d,w commands in the predefined 
+                    visible maze.
+
+       Level 1:  Mouse Discovers
+                    You may use Level 0 commands and r,l and m commnad
+                    in the predefined hidden maze
+
+       Level 2:  Mouse Explores
+                    You may use Level 1 commands and the n command
+
+       Level 3:  Da Frills
+                    Not provided.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: Maze-Runner runs best in an 80 col x 48 line window. If you do not
+see +++ in the upper right and lower left of the screen, your window is
+too small.
+
+
+
+
